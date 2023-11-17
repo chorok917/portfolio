@@ -703,7 +703,6 @@ body.push-side #ascrail2000-hr {
 /*------------------
 Hero section
  ---------------------*/
-
 .hero-track {
 	padding-bottom: 50px;
 	overflow: hidden;
@@ -753,7 +752,6 @@ Other pages
 /* ----------------
 About Page
  ---------------------*/
-
 .about-section {
 	height: 100%;
 	padding-right: 74px;
@@ -822,7 +820,6 @@ About Page
 /* ----------------
 Blog page
  ---------------------*/
-
 .blog-page {
 	padding-right: 70px;
 }
@@ -891,10 +888,10 @@ Blog page
 }
 .blog-meta a{
 	display:block;
-	color: rgb(217, 246, 243)
+	color: rgb(0, 0, 0)
 }
 .blog-meta a:hover{
-	color: #144b62;
+	color: #ffffff;
 }
 
 .blog-comments {
@@ -942,7 +939,6 @@ Blog page
 /* ----------------
 Portfolio page
  ---------------------*/
-
 .portfolio-section {
 	padding-right: 30px;
 	margin-left: -3px;
